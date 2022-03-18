@@ -1,4 +1,4 @@
-## Location Selection Analysis for Hand Shake Beverages Store -A Case Study of Taipei City  
+## Location Selection Analysis for Beverage Stores -A Case Study of Taipei 
 This project want to analyze selection for hand-shake beverages stores in Taipei by open government data  
 
 ### Analysis and Report
