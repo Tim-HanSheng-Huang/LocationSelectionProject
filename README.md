@@ -1,6 +1,5 @@
-## Location Selection Project
-Topic: Location Selection Analysis for Hand Shake Beverages Store -A Case Study of Taipei City  
-Description: This project want to analyze selection for hand-shake beverages stores in Taipei by open government data  
+## Location Selection Analysis for Hand Shake Beverages Store -A Case Study of Taipei City  
+This project want to analyze selection for hand-shake beverages stores in Taipei by open government data  
 
 ### Analysis and Report
 Analysis code and general description (English): Please view the [website](https://tim-hansheng-huang.github.io/LocationSelectionProject/LocationSelection_Analysis.html)  
@@ -9,6 +8,7 @@ Detailed report (Chinese): "[手搖飲料店設點選址的分析研究](https:/
 ### System Implementation
 This project not only provide a report, but also implement a tool that help beverage companies do the location selection according to relative information. After inputing a Chinese address in Taipei, users would get a predicted success probability for the address.  
 The image below is the interface of the system. [Here](https://youtu.be/O-T8adiqFRU) is the system demo video.   
+  
 ![image](https://github.com/Tim-HanSheng-Huang/LocationSelectionProject/blob/main/interface.png)
 
 ### Download the system
