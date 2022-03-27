@@ -1,5 +1,6 @@
 ## Location Selection Analysis for Beverage Stores -A Case Study of Taipei 
-This project want to analyze selection for hand-shake beverages stores in Taipei by open government data  
+This project want to analyze the location selection for hand-shake beverages stores in Taipei by open government data  
+Models used: linear regression, logistic regression, decision tree, random forest, gradient boosting decision tree
 
 ### Analysis and Report
 Analysis code and general description (English): Please view the [website](https://tim-hansheng-huang.github.io/LocationSelectionProject/LocationSelection_Analysis.html)  
